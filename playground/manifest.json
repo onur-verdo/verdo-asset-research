@@ -1,0 +1,407 @@
+{
+ "overview": {
+  "path": "/overview",
+  "components": [
+   {
+    "file": "01-active-ai-users.png",
+    "title": "Active AI Users"
+   },
+   {
+    "file": "02-ai-influenced-commits.png",
+    "title": "AI-Influenced Commits"
+   },
+   {
+    "file": "03-total-ai-cost.png",
+    "title": "Total AI Cost"
+   },
+   {
+    "file": "04-ai-sessions.png",
+    "title": "AI Sessions"
+   },
+   {
+    "file": "05-agent-success-rate.png",
+    "title": "Agent Success Rate"
+   },
+   {
+    "file": "06-roi.png",
+    "title": "ROI"
+   },
+   {
+    "file": "07-commit-activity-timeline.png",
+    "title": "Commit Activity Timeline"
+   },
+   {
+    "file": "08-ai-adoption-over-time.png",
+    "title": "AI Adoption Over Time"
+   },
+   {
+    "file": "09-adoption-by-team.png",
+    "title": "Adoption by Team"
+   },
+   {
+    "file": "10-pr-cycle-time-delta.png",
+    "title": "PR Cycle Time Delta"
+   },
+   {
+    "file": "11-defect-rate-delta.png",
+    "title": "Defect Rate Delta"
+   },
+   {
+    "file": "12-time-saved.png",
+    "title": "Time Saved"
+   },
+   {
+    "file": "13-ai-influenced-commits-vs-escaped-defects.png",
+    "title": "AI-Influenced Commits vs Escaped Defects"
+   },
+   {
+    "file": "14-pr-cycle-time-distribution.png",
+    "title": "PR Cycle Time Distribution"
+   },
+   {
+    "file": "15-total-license-cost.png",
+    "title": "Total License Cost"
+   },
+   {
+    "file": "16-cost-efficiency.png",
+    "title": "Cost efficiency"
+   },
+   {
+    "file": "17-license-cost-by-agent.png",
+    "title": "License Cost by Agent"
+   },
+   {
+    "file": "18-license-cost-by-agent.png",
+    "title": "License Cost by Agent"
+   },
+   {
+    "file": "19-cost-by-project.png",
+    "title": "Cost by Project"
+   },
+   {
+    "file": "20-agent-comparison.png",
+    "title": "Agent comparison"
+   },
+   {
+    "file": "21-cost-vs-quality.png",
+    "title": "Cost vs Quality"
+   },
+   {
+    "file": "22-repositories.png",
+    "title": "Repositories"
+   },
+   {
+    "file": "23-activity-timeline.png",
+    "title": "Activity Timeline"
+   }
+  ]
+ },
+ "engineer-detail": {
+  "path": "/contributors/engineers/engineer-1",
+  "components": [
+   {
+    "file": "01-ai-sessions.png",
+    "title": "AI Sessions"
+   },
+   {
+    "file": "02-ai-influenced-commits.png",
+    "title": "AI Influenced Commits"
+   },
+   {
+    "file": "03-ai-session-spend.png",
+    "title": "AI Session Spend"
+   },
+   {
+    "file": "04-repositories-worked-on.png",
+    "title": "Repositories Worked On"
+   },
+   {
+    "file": "05-ai-maturity.png",
+    "title": "AI Maturity"
+   },
+   {
+    "file": "06-adoption-rate.png",
+    "title": "Adoption Rate"
+   },
+   {
+    "file": "07-repositories-1.png",
+    "title": "Repositories (1)"
+   },
+   {
+    "file": "08-pull-requests-13.png",
+    "title": "Pull Requests (13)"
+   },
+   {
+    "file": "09-recent-activity-last-30-days.png",
+    "title": "Recent Activity (Last 30 Days)"
+   }
+  ]
+ },
+ "team-detail": {
+  "path": "/contributors/teams/platform-core",
+  "components": [
+   {
+    "file": "01-ai-maturity.png",
+    "title": "AI Maturity"
+   },
+   {
+    "file": "02-adoption-rate.png",
+    "title": "Adoption Rate"
+   },
+   {
+    "file": "03-total-commits.png",
+    "title": "Total Commits"
+   },
+   {
+    "file": "04-ai-influenced-commits.png",
+    "title": "AI-Influenced Commits"
+   },
+   {
+    "file": "05-team-members-450.png",
+    "title": "Team Members (450)"
+   },
+   {
+    "file": "06-ai-maturity-breakdown.png",
+    "title": "AI Maturity Breakdown"
+   }
+  ]
+ },
+ "repositories-list": {
+  "path": "/repositories",
+  "components": [
+   {
+    "file": "01-all-teamsall-languagesname-data-radix-sc.png",
+    "title": "All teamsAll languagesName[data-radix-scroll-area-"
+   }
+  ]
+ },
+ "repositories-detail": {
+  "path": "/repositories/repo-1",
+  "components": [
+   {
+    "file": "01-active-ai-contributors.png",
+    "title": "Active AI Contributors"
+   },
+   {
+    "file": "02-ai-influenced-commits.png",
+    "title": "AI-Influenced Commits"
+   },
+   {
+    "file": "03-total-ai-cost.png",
+    "title": "Total AI Cost"
+   },
+   {
+    "file": "04-quality-delta.png",
+    "title": "Quality Delta"
+   },
+   {
+    "file": "05-ai-sessions.png",
+    "title": "AI Sessions"
+   },
+   {
+    "file": "06-roi.png",
+    "title": "ROI"
+   },
+   {
+    "file": "07-commits-175.png",
+    "title": "Commits (175)"
+   },
+   {
+    "file": "08-pull-requests-10.png",
+    "title": "Pull Requests (10)"
+   }
+  ]
+ },
+ "sessions-list": {
+  "path": "/sessions",
+  "components": [
+   {
+    "file": "01-all-teamsall-repositoriesall-agentsdate-.png",
+    "title": "All teamsAll repositoriesAll agentsDate[data-radix"
+   }
+  ]
+ },
+ "sessions-detail": {
+  "path": "/sessions/commit-1",
+  "components": [
+   {
+    "file": "01-duration.png",
+    "title": "Duration"
+   },
+   {
+    "file": "02-cost.png",
+    "title": "Cost"
+   },
+   {
+    "file": "03-tokens.png",
+    "title": "Tokens"
+   },
+   {
+    "file": "04-files-changed.png",
+    "title": "Files changed"
+   },
+   {
+    "file": "05-commits.png",
+    "title": "Commits"
+   },
+   {
+    "file": "06-pull-request.png",
+    "title": "Pull request"
+   },
+   {
+    "file": "07-token-usage.png",
+    "title": "Token usage"
+   },
+   {
+    "file": "08-cost-breakdown.png",
+    "title": "Cost breakdown"
+   }
+  ]
+ },
+ "agents-list": {
+  "path": "/agents",
+  "components": [
+   {
+    "file": "01-agents-used.png",
+    "title": "Agents Used"
+   },
+   {
+    "file": "02-total-sessions.png",
+    "title": "Total Sessions"
+   },
+   {
+    "file": "03-total-cost.png",
+    "title": "Total Cost"
+   },
+   {
+    "file": "04-agent-comparison.png",
+    "title": "Agent comparison"
+   },
+   {
+    "file": "05-cost-vs-quality.png",
+    "title": "Cost vs Quality"
+   },
+   {
+    "file": "06-adoption-charts.png",
+    "title": "Adoption Charts"
+   },
+   {
+    "file": "07-sessions-over-time.png",
+    "title": "Sessions Over Time"
+   },
+   {
+    "file": "08-recent-agent-activity.png",
+    "title": "Recent Agent Activity"
+   }
+  ]
+ },
+ "agents-detail": {
+  "path": "/agents/claude",
+  "components": [
+   {
+    "file": "01-total-sessions.png",
+    "title": "Total Sessions"
+   },
+   {
+    "file": "02-total-cost.png",
+    "title": "Total Cost"
+   },
+   {
+    "file": "03-avg-cost-session.png",
+    "title": "Avg Cost / Session"
+   },
+   {
+    "file": "04-success-rate.png",
+    "title": "Success Rate"
+   },
+   {
+    "file": "05-model-usage.png",
+    "title": "Model Usage"
+   },
+   {
+    "file": "06-repository-impact.png",
+    "title": "Repository Impact"
+   },
+   {
+    "file": "07-contributors-using-this-agent.png",
+    "title": "Contributors Using This Agent"
+   },
+   {
+    "file": "08-recommendation.png",
+    "title": "Recommendation"
+   }
+  ]
+ },
+ "projects-list": {
+  "path": "/projects",
+  "components": [
+   {
+    "file": "01-namegridlistapi-gateway-modernizationmig.png",
+    "title": "NameGridListAPI Gateway ModernizationMigration to "
+   }
+  ]
+ },
+ "projects-detail": {
+  "path": "/projects/project-1",
+  "components": [
+   {
+    "file": "01-over-budget.png",
+    "title": "Over Budget"
+   },
+   {
+    "file": "02-active-ai-contributors.png",
+    "title": "Active AI Contributors"
+   },
+   {
+    "file": "03-ai-influenced-commits.png",
+    "title": "AI-Influenced Commits"
+   },
+   {
+    "file": "04-total-ai-cost.png",
+    "title": "Total AI Cost"
+   },
+   {
+    "file": "05-quality-delta.png",
+    "title": "Quality Delta"
+   },
+   {
+    "file": "06-ai-sessions.png",
+    "title": "AI Sessions"
+   },
+   {
+    "file": "07-roi.png",
+    "title": "ROI"
+   },
+   {
+    "file": "08-repositories-6.png",
+    "title": "Repositories (6)"
+   },
+   {
+    "file": "09-drill-down-analysis.png",
+    "title": "Drill-Down Analysis"
+   }
+  ]
+ },
+ "activity-list": {
+  "path": "/activity",
+  "components": [
+   {
+    "file": "01-activity-timeline.png",
+    "title": "Activity Timeline"
+   },
+   {
+    "file": "02-recent-events.png",
+    "title": "Recent Events"
+   }
+  ]
+ },
+ "activity-detail": {
+  "path": "/activity/evt-1001",
+  "components": [
+   {
+    "file": "01-event-detail.png",
+    "title": "Event Detail"
+   }
+  ]
+ }
+}
